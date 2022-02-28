@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words to all judges, justices, and ministers of the law in England. From Anthony Pearson.</title>
+            <author>Pearson, Anthony, 1628-1670?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91564</idno>
+            <idno type="STC">Wing P988</idno>
+            <idno type="STC">Thomason E231_6</idno>
+            <idno type="STC">ESTC R7991</idno>
+            <idno type="EEBO-CITATION">99873226</idno>
+            <idno type="PROQUEST">99873226</idno>
+            <idno type="VID">125688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125688)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 40:E231[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words to all judges, justices, and ministers of the law in England. From Anthony Pearson.</title>
+                  <author>Pearson, Anthony, 1628-1670?</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert at the Black-spread-Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "July 16, 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:125688:1"/>
+            <pb n="1" facs="tcp:125688:1" rendition="simple:additions"/>
+            <head>
+               <hi>A few Words</hi> To all JUDGES, JUSTICES, and MINISTERS of the LAW in <hi>ENGLAND.</hi>
+            </head>
+            <head type="sub">From ANTHONY PEARSON.</head>
+            <p>TO the Judges of life and death, and Judges of <hi>Niſi prius,</hi> as they call it, who give oathes to Juſtices, Juries and witneſſes, and Juſtices that give oathes to Conſtables and others. To the light which Chriſt Jeſus hath enlight<g ref="char:EOLhyphen"/>ned you withal, I ſpeake, that with it you may ſee you are out of the doctrine of Chriſt, who ſaith, <hi>Swear not at all, in all your communications let your yea be yea, and your nay be nay; whatſoever is more, is evil.</hi> So you that ſwear are in the evil, and with the light of Chriſt Jeſus, you may ſee that you be out of the doctrine of the Apoſtle, who ſaid, my brethren; ſwear not at all, not by heaven, nor by earth, nor any other oath, leſt you fall into condemnation of the divel; ſo you that ſwear are fallen into the condemnation of the divel; and you that cauſe o<g ref="char:EOLhyphen"/>thers to ſweare, or compel them, or impriſon them, or fine them if they will not, you are out of the doctrine of Chriſt and the Apoſtle your ſelves, and ſeek to bring others out of his doctrine, into the ſame condemnation of the divel where you are. Praiſed be God, with the light which comes from Chriſt, you are ſeene to be no brethren of Chriſt, who are out of his doctrine, and doth not doe his will. I am the light of the world, and doth enlighten every one that comes into the world ſaith Chriſt; now every one loving this light which Chriſt Jeſus hath enlightned you withal; it will bring you to doe his will, and know his doctrine; and then in all your communications you will be kept to yea
+<pb n="2" facs="tcp:125688:2"/>and nay, and never an oath ſhall be heard in the land, for the land mournes be<g ref="char:EOLhyphen"/>cauſe of oathes. Now you that hate this light which Chriſt Jeſus hath enlight<g ref="char:EOLhyphen"/>ned you withal; you ſwear, and compel others to ſweare; and with this light you are to be condemned, who are out of his doctrine. To the light in all your conſciences I ſpeak, which ſhall witneſſe me eternally, and condemne all you that hate it, and is the light of Chriſt, which ſhewes your ſinne and evill deeds.</p>
+            <p>
+               <hi>From him who is a lover of your ſoules and your eternal good, that with the light you may ſee the way to ſalvation, to Chriſt, from whence the light comes.</hi>
+            </p>
+            <div type="part">
+               <head>Concerning oathes.</head>
+               <p>The word of the Lord the living God to all you who be out of the doctrine of Chriſt, ſwearing, and doe ſwear, and compell others to ſwear, when Chriſt ſaith <hi>ſwear not at all:</hi> and the Apoſtle ſaith, <hi>ſwear not at all,</hi> by any oath, leaſt you fall into condemnation of the Devill: ſo yee that ſweare and compel others to ſweare are fallen into the condemnation of the Devil. And ſeeke to bring others into the ſame condemnation of the Devill, and Chriſt ſaith, what<g ref="char:EOLhyphen"/>ſoever cometh above yea and nay, cometh of evill: who ſaith, ſwear not at all: and you that ſwear and compell to ſwear are in the evill; now if ye alleadg <hi>Jacob</hi> ſware, <hi>Joſeph</hi> ſware; Chriſt Jeſus reignes over the houſe of <hi>Jacob</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſeph,</hi> who ſaith, ſwear not at all, this is the Sonne of God, hear him, who teach<g ref="char:EOLhyphen"/>eth true doctrine and they that teach men another doctrine or goſpell to ſwear, they all be accurſed: yea, if an Angell from heaven. Now if you alleadge that <hi>Abraham</hi> ſware, who ſaw the dayes of the Sonne and rejoyced, and if you alleadge that <hi>Moſes</hi> ſware who wrote of Chriſt, who ſaid, God would raiſe up a Prophet like unto him, him ſhould the people heare, Chriſt Jeſus the Sonne of God, who ſaith ſwear not at all; here the Sonne of God is come, whom <hi>Abraham</hi> ſaw, <hi>Moſes</hi> wrote of; who ſaith ſwear not at all; whom yee muſt hear <hi>Acts</hi> 7. and him you doe not hear that ſweares, the Sonne of God: but with the light you are condemned which comes from the Sonne of God, who ſaith, ſwear not at all. Now you that ſay <hi>Solomon</hi> ſware, and the Prieſts ſware under the Law: and the Prophets ſware, My anſwer is: Chriſt Jeſus the Sonne of God, who is the end of the Law and the Prophets, and a greater then <hi>Solomon,</hi> the unchangeable Prieſt, ſaith, ſwear not at all: but in all your communications let your yea be yea, and your nay be nay, for whatſoever is more is evil. Now if you alleadge that men in ſtrife ſware, and the oath was the end of controverſies and ſtrife among men, which the Apoſtle brought as a figure: as God ſwearing
+<pb n="3" facs="tcp:125688:2"/>by himſelfe, who could not finde a greater; who ſaith, verily men ſwear by the greater: My anſwer is this; where men are in ſtrife in that nature, they be out of the doctrine of Chriſt, and are evill, and do not heare Chriſts doctrine who ſaith, ſwear not at all. Now if you alleadge the Angell ſware in the <hi>Revelation,</hi> My anſwer is this: I bring my firſt begotten into the world ſaith the Lord, let all the Angells worſhip him: the Sonne of God, who ſaith ſwear not at all, but in all your communication let your yea be yea and your nay be nay, for what is more is evil: and this ſonne of God is above Angells and men that are in ſtrife, and the end of the Prophets, and the end of the Law, and the firſt covenant and Prieſt in it, and this Sonne of God reignes over the houſe of <hi>Jacob</hi> and <hi>Joſeph,</hi> a greater then <hi>Solomon</hi> or <hi>David</hi> who ſwore, for he called him Lord, whom <hi>Abraham</hi> ſaw, the Sonne of God, who ſaith ſwear not at all, <hi>This is he who brings peace on the earth and good will towards men,</hi> and the ſword in the earth: <hi>he that hath ears to hear let him hear.</hi>
+               </p>
+               <p>
+                  <hi>Moved of the Lord from the Spirit of the Lord, a lover of your ſoules and your eternall good, for the eſtabliſhing of righteouſneſſe and the doctrine of Chriſt, and cleanſing the Land of evill doers, and for eſtabliſhing the Goſpell: and a lover of the Creation.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Concerning Vagabonds.</head>
+               <p>THE word of the Lord to you powers of the earth, Judges and Juſti<g ref="char:EOLhyphen"/>ces, who have called them and given them the names of Vagabonds, which the Lord hath ſent forth to declare his word, who hath for<g ref="char:EOLhyphen"/>ſaken their outward habitations as the Prophets and Apoſtles many of them did, which went to ſpeak the word of the Lord freely, and did abide in his commands, theſe were no vagabonds. <hi>Cain</hi> was the vagabond who did not obey the command of God; for ſaith the Lord to him, if thou doſt wel, ſhalt not thou be accepted? He did not wel diſobeyed the command of God, he was wroth, his countenance fell, he was a vagabond and a fugitive, and was not ac<g ref="char:EOLhyphen"/>cepted. So all you that turne from the commands of God, and are wroth, whoſe countenance fall, which doth not well, you are not accepted of God. You have no habitation in the Lord; <hi>Caines</hi> way is your way. Certain vagabond fellows riſe againſt the Apoſtle, and bound themſelves with an oath to put him to death, theſe had no habitation in the Lord, theſe did not abide in his commands, theſe were the vagabonds in the way of <hi>Caine,</hi> though they might have habitations outward. The Apoſtle was no vagabond nor fugitive who had no certaine dwel<g ref="char:EOLhyphen"/>ling place, which went reaſoning and diſputing in the Synagogues daily, Schools,
+<pb n="4" facs="tcp:125688:3"/>and Markets; he was perſecuted by ſuch as were vagabonds, who did not obey the commands of God, who did not well; ſuch you priſon now who are moved of the Lord to goe into your Synagogues, Markets, and other places, as peace-breakers or vagabonds; here let the life of the Scriptures judge you all to be ig<g ref="char:EOLhyphen"/>norant of the letter, and without underſtanding. The Sonne of man was no vagabond, which had no place to lay his head; you that are turned from the com<g ref="char:EOLhyphen"/>mands of God as <hi>Caine</hi> did, and are in envy and wrath, and doth not well, whoſe countenance falls; though you may have great habitations in the earth, you are the vagabonds and the fugitives which doth not obey the commands of the Lord, and have no habitation in the Lord; who obey the commands of the Lord are no vagabonds nor fugitives, though they have no certaine dwelling place, as the Prophets and the Apoſtles, and Sonne of man had not.</p>
+               <p>To the Judges of life and death, to take heed how you put man or woman to death for cattle, or mony, or any earthly creature, or earthly thing, he that ſheds mans blood, by man ſhall his blood be ſhed; the law that was received from God according to that of God in the conſcience, ſaid, that they ſhould be ſold for their theft, if they had not wherewith to make reſtitution fourfold or ſevenfold: To the light in your conſciences I ſpeak, that with it you may be brought unto the fear of God, to receive the law from God, which is accor<g ref="char:EOLhyphen"/>ding to that in every mans conſcience. And if you act contrary to it, the law of God will hew you down among the evil doers; which is a terror to the evill doers, and to the praiſe of them that do well, and to you this is the word of God.</p>
+               <p>And to you that are Judges amongſt men about earthly things, to the light in your conſciences I ſpeak, that with it you may be guided to doe juſtice ac<g ref="char:EOLhyphen"/>cording to the light in the conſcience, that the light in every mans conſcience may witneſſe you to do juſtice, and that which is juſt and equity; elſe the light of Chriſt in every ones conſcience, wil witneſſe and cry againſt you, which is according to the law of God which is juſt; that none be burthened, no per<g ref="char:EOLhyphen"/>ſons reſpected; if there be, you that doe, are convinced with the light in your conſciences, to be tranſgreſſours of the law of God, which is perfect according to that of God in every mans conſcience, which light will witneſſe the law of God which is perfect. And to you this is the word of God, to the light of Chriſt in you all I ſpeak, that with it your conſciences may be exerciſed towards God, and towards man; and if you are contrary to it, with it you are to be condemned, this is the condemnation of the world, the light, <hi>Joh.</hi> 3.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Tythes.</head>
+               <p>And you that do give the Prieſts Tithes with your Law, and impriſon men
+<pb n="5" facs="tcp:125688:3"/>if they will not give the Prieſts tithes with your Law, and make them pay treble damages, and ſtrain the goods, or cattel, bedding, pewter or braſſe of ſuch that doth witneſſe the unchangeable prieſthood, Chriſt Jeſus, and the new Te<g ref="char:EOLhyphen"/>ſtament, and the new Covenant, and the Goſpel, and the everlaſting prieſt<g ref="char:EOLhyphen"/>hood; and ſees the change <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the firſt prieſthood that received tithes, and of the law alſo: It is not for the earth ſending it they do not pay the prieſts tithes; for the earth is the Lords and the fulneſſe of it.</p>
+               <p>Now if you ſay, that Chriſt ſaith, <hi>Theſe things ought you to have done, and not to have left the other undone,</hi> concerning tithes: That was a time before Chriſt Jeſus was ſacrificed up: but when hee was ſacrificed, and the unchangeable prieſt<g ref="char:EOLhyphen"/>hood preached, the changeable was denyed, as you may read <hi>Hebrews</hi> the 7th: and they witneſſed the unchangeable prieſt, and ſuffered the ſpoiling of their goods joyfully, as we do now for Chriſts ſake; and are the gazing ſtock of the world, as they were who witneſſed the unchangeable prieſt as they did; and deny the changeable, as the Apoſtle and they did. Now if you will give your prieſts tithes, to oppreſſe the people, and hold up a figure of your own ma<g ref="char:EOLhyphen"/>king; if you will act according to the prieſthood in the law of God, and the Scriptures, you muſt let your prieſts have a Store-houſe, (as you read in <hi>Mala<g ref="char:EOLhyphen"/>chi</hi> and <hi>Moſes</hi> his Writings, and the tithes to be put into the Store-houſe<g ref="char:punc">▪</g> and the prieſts miniſter it forth to the Widows, to the ſtrangers and the fatherleſſe, and they all ſatisfied within his gates, that no beggar may be in <hi>England,</hi> as no beggar was to be in <hi>Iſrael:</hi> If you ſhould do ſo, then you might not own Chriſt Jeſus to be come in the fleſh, nor owne the reſurrection of Chriſt, nor beleeve it; but are haling people before Benches for tithes for Prieſts and others, burthening them and vexing of them.</p>
+               <p>So all you that take tithes, and give tithes, and compell people to give Tythes, you are under the condemnation, and the miniſtry of condemnation, and doe not owne the Apoſtles Doctrine, who ſaith, the prieſthood was changed, and the law was changed alſo, <hi>Hebrews</hi> 7. So never a one that gives tithes to the Prieſts, or compels to give tithes, doth own the Goſpel and the unchangeable Prieſt, but are acting things, and compelling people to act con<g ref="char:EOLhyphen"/>trary to the firſt Prieſthood and the Scriptures, who do not act with their tithes as the firſt Prieſthood did: with the life and practice of the firſt Peieſthood you are judged out of their practice: and who witneſſeth the ſecond prieſthood, de<g ref="char:EOLhyphen"/>nyes the firſt, and you both. With the light which comes from Chriſt, which comprehends the world with it. you are ſeen, which light is the worlds condem<g ref="char:EOLhyphen"/>nation, <hi>John.</hi> 3. which light brings us to witneſſe Chriſt the unchangeable Prieſt, and to deny the changeable that takes tithes. For your ſouls good is this given forth: To the light of Chriſt in you I ſpeak, that with it you may ſee the miniſtration of the firſt prieſthood, which is for condemnation, and the ſecond
+<pb n="6" facs="tcp:125688:4"/>prieſthood Chriſt Jeſus. To you this is the word of the Lord, and for your ſouls good.</p>
+               <p>HE that rules over men ſhould be juſt, for God is juſt for whom hee ſhould rule, and the law of God is juſt by which he ſhould rule. Man when hee turned from God, and tranſgreſſed the command of God, the law took hold upon him, and cut down him that tranſgreſſed: The law was not made for the righteous, for againſt ſuch there is no law, but for the ſinner: and the law of God which is againſt the tranſgreſſour is juſt and equall, according to the tranſgreſſion: which law need not be fetched from beyond the Seas, nor from above, nor from beneath; for all have the work of this law (even the heathen) written in the heart, which is witneſſed by the light that ſhines in the conſci<g ref="char:EOLhyphen"/>ence. He that walks according to the law in his Conſcience<g ref="char:punc">▪</g> he is excuſed; He that tranſgreſſeth the law in his conſcience<g ref="char:punc">▪</g> hee is accuſed and condemned; and ſo in every mans heart the work of the law being written, in every mans conſci<g ref="char:EOLhyphen"/>ence God hath a witneſſe that the Law is juſt and good, and that the puniſh<g ref="char:EOLhyphen"/>ment is juſt and equall: Here every tranſgreſſour becomes guilty before God, and every mans puniſhment being juſt, every mans mouth comes to be ſtopped, and the righteous law of God in every mans conſcience juſtified. The Law of God is perfect, and endures for ever, and changeth not; which is the ſame a<g ref="char:EOLhyphen"/>gainſt all Nations, Languages, Kindreds and People, which is witneſſed by the Conſcience, which is the ſame in all Nations, Languages, Kindreds and peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>The Law of God reſpects no mans perſon, but is the ſame againſt every one that tranſgreſſeth, whether King, Noble or beggar: that in the conſcience is the ſame in King. Noble and Beggar, and ſhewes that of one mould and one blood God hath made all Nations of the earth, the King, the Noble, and the beggar; here God is juſt, who reſpects no mans perſon; the law of God is juſt which reſpects no mans perſon, and that in the conſcience is juſt, which witneſſes the law, which reſpects no mans perſon; here is the ground of juſtice, the law of God; here is the ground of true judgment, that in the conſcience, which leaves witneſſe to the law in every one, and as is the tranſgreſſion, ſo is the law, every tranſgreſſion is judged by the law; ſo is every tranſgreſſion con<g ref="char:EOLhyphen"/>demned by that in the conſcience; the law of God was and is the ſame, and hath continued in all ages, and doth endure for ever, that in the conſcience is the ſame in all ages and changeth not, but doth endure for ever; he that ſinnes againſt the law, that in the conſcience bears witneſſe to the law, and by that in the conſcience he is accuſed and condemned, and ſo his mouth is ſtopped, and here all the world becomes guilty before God.</p>
+               <p>The law of God is made already, which was added becauſe of tranſgreſſion, and
+<pb n="7" facs="tcp:125688:4"/>changeth not: he that acts according to the Law, is juſtified by the Law, and ever was, and through the law he becomes dead to the law, and is excuſed by that in his conſcience, and ever ſhall be; here God is judge and Law giver to all whoſe judgments are juſt and righteous, who hath placed a witneſſe in all, vvho will judge every one according to their works, out of the book written in the conſcience: he that makes lawes, with the Law of God which is made already, he is judged, and with that in his conſcience which bears witneſſe for God he is condemned; he that turns from the law of God, to obey the law of man, had rather ſerve man then God, and ſo with the law of God, and that in his conſcience he is judged and condemned from God.</p>
+               <p>He that is a Miniſter of God, ordained by God, executes the law of God which is perfect, which is witneſſed by that of God in every mans conſcience, and to him the ſoul is ſubject for conſcience ſake; but he that makes and executes a law which is not the law of God, hath no witneſſe in the con<g ref="char:EOLhyphen"/>ſcience for God that his law is juſt, that his puniſhment is equal, and ſo they who witneſſe onely the law of God, witneſſe againſt him and his law, and cannot obey him for conſcience ſake; he that is the Miniſter of God and executes the law of God, is a ſervant to God, and judgeth for God, ſets not up himſelf in the place of God, but gives all honour to God whoſe judgements are juſt, and by turning his ſword againſt all unrighteouſneſſe, declares the righteouſneſſe of God. and is a terrour to evil doers, and without reſpect of perſons executes the law upon him that doth evil, and here he is witneſſed by that which is of God in every ones conſcience, to be juſt, and the pu<g ref="char:EOLhyphen"/>niſhment received as from God whoſe law he executes, who is juſt, and ſo every man being con<g ref="char:EOLhyphen"/>demned in himſelfe, his mouth is ſtopped, no envy againſt the perſon raiſed, but the righteous God the judge and law-giver of the world in his righteouſneſſe, cleared and exalted. The law of God is per<g ref="char:EOLhyphen"/>fect, and endures for ever, and changeth not, that in the conſcience is perfect and endures for ever, and changeth not. All lawes which are not perfect, which endure not for ever, and do change, are temporal and carnal, and with the law of God which is ſpiritual, are judged, and their makers con<g ref="char:EOLhyphen"/>demned. The law of God reſpects no mans perſon; all lawes which doe reſpect perſons, and are not againſt all ſorts of perſons alike, are contrary to the law of God, and they that make them, and they that execute them are in the law condemned and convinced as tranſgreſſours.</p>
+               <p>The law of God is witneſſed by that in the conſcience; all laws which have not their witneſſe in the conſcience, are made by the will of man, which is contrary to the law of God, and cannot be o<g ref="char:EOLhyphen"/>beyed for conſcience ſake by them who witneſſe the law of God.</p>
+               <p>The law of God is juſt and equal, life for life, a tooth for a tooth, an eye for an eye; that law which is not equal and juſt is againſt the law of God, and diſhonours God whoſe wayes are the wayes of righteouſneſſe, and all who inflict puniſhments that are not according to the offence, ſet up their owne wills againſt the law of God, he that takes away life for the creatures is a murtherer, and the blood ſhall be upon his head.</p>
+               <p>The law of God is equal and that in the conſcience cryes for equity according to the law of God, that law whoſe ground and foundation is not equity, but needs a court of equity to mitigate its cru<g ref="char:EOLhyphen"/>elty, is tyranny, and is witneſſed againſt by that in the conſcience to be contrary to God, and a<g ref="char:EOLhyphen"/>gainſt the righteous law of God, which is holy and juſt, and muſt be throwne down, and all that go about to uphold it. To do unto others, as they would have them do unto thee, this is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, this is equal and equity, and herein is fulfilled the whole law. He that executes a law made <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he will of man, to which that in the conſcience doth not beare witneſſe that <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> according to the law of God, is not the Miniſter of God, but is condemned by the law of God, and that in his owne conſcience to act his owne will. He that makes lawes which have not a witneſſe in the conſcience that they are ac<g ref="char:EOLhyphen"/>cording
+<pb n="8" facs="tcp:125688:5" rendition="simple:additions"/>to the law of God; and he that executes thoſe lawes are the enemies of God who would not have him to reigne, and againſt ſuch have the ſervants of God been ſent alwayes to declare, and a<g ref="char:EOLhyphen"/>gainſt ſuch hath the wrath of the Lord alwayes been revealed, overturning nations and kingdomes that his owne law might be ſet up.</p>
+               <p>He that makes laws, and they that execute thoſe laws which are not the law of God, to which that in the conſcience beares witneſſe, ſet themſelves in the place of God to overthrow the law of God, to ſet up their owne wills; theſe are heathens in what nation ſoever they dwell, and theſe ſhall an<g ref="char:EOLhyphen"/>ſwer for all the injuries, wrongs, and falſe judgements that are executed and inflicted. And now is the righteous law-giver the judge of the whole earth ariſing in his wrath to be avenged of all his enemies who will not have him to rule and reigne, of whoſe kingdome and dominion there ſhall be no end.</p>
+               <p>He that makes a law againſt that in the conſcience which is pure and holy, makes a law againſt God, and he that exe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſeth that law for gifts and rewards, his heart is in the earth for ſelfe ends, and in the ſame carnal nature with the Prieſts who preach for hire, and with the light which is free, which is the gift of God not to be bought and ſold for money, he is to be condemned, and with the life of all the judges and holy men of God he is eternally judged.</p>
+            </div>
+            <closer>
+               <signed>A. P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London.</hi> Printed for <hi>Giles Calvert</hi> at the Black-ſpread-Eagle at the Weſt end of <hi>Pauls,</hi> 1654.</p>
+            <pb facs="tcp:125688:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
